@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    height: 10%;
+    background-color: orangered;
+    position: sticky;
+    top: 0;
+}
+
+#Pagina{
+    display: inline-block;
+    width: 19%;
+    text-align: center;
+    padding-top: 1%;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+img{
+    height: 40%;
+    width: 15%;
+}
+
+a{
+    color: white;
+    text-align: end;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main{
+    height: 600px;
+    background-color: rgb(119, 119, 122);
+    text-align: center;
+}
+
+footer{
+    font-size: 30px;
+    color: white;
+    background-color: black ;
+    height: 220px;
+}
+
+.Redes{
+    color: white;
+    font-family: Ubuntu;
+    text-align: left;
+    font-size: 15px;
+}
+
+.PiePagina{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}

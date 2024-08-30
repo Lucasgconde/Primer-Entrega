@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 500px;
+    background-color: gray;
+}
+
+nav{
+    height: 10%;
+    background-color: orangered;
+    position: sticky;
+    top: 0;
+}
+
+#Pagina{
+    display: inline-block;
+    width: 19%;
+    text-align: center;
+    padding-top: 1%;
+
+}
+/* 
+li{
+    display: inline-block;
+    width: 19%;
+    text-align: center;
+    padding-top: 1%;
+}
+  */
+a{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main{
+    height: 600px;
+    background-color: rgb(119, 119, 122);
+    text-align: center;
+}
+
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: white;
+    background-color: black ;
+    height: 220px;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    
+}
+
+.Redes{
+    color: white;
+    font-family: Ubuntu;
+    text-align: left;
+    font-size: 15px;
+}
+
+.PiePagina{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}

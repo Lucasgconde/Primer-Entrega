@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    height: 600px;
+    background-color: rgb(119, 119, 122);
+    text-align: center;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+#Pagina{
+    display: inline-block;
+    width: 19%;
+    text-align: center;
+    padding-top: 1%;
+}
+
+nav{
+    height: 10%;
+    background-color: orangered;
+    position: sticky;
+    top: 0;
+}
+
+a{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.show1{
+    background-color: blanchedalmond;
+    font-size: 25px;
+    font-family: Ubuntu;
+    text-align: center;
+}
+
+.show2{
+    background-color: blanchedalmond;
+    font-size: 25px;
+    font-family: Ubuntu;
+    text-align: center;
+}
+
+.show3{
+    background-color: blanchedalmond;
+    font-size: 25px;
+    font-family: Ubuntu;
+    text-align: center;
+}
+
+.show4{
+    background-color: blanchedalmond;
+    font-size: 25px;
+    font-family: Ubuntu;
+    text-align: center;
+}
+
+.show5{
+    background-color: blanchedalmond;
+    font-size: 25px;
+    font-family: Ubuntu;
+    text-align: center;
+}
+
+.boton_tickets{
+    width: 7%;
+    height: 20px;
+    background-color: black;
+    color:white;
+    font-size:14px;
+    border-radius: 50px;
+}
+
+.boton_finalizado{
+    width: 7%;
+    height: 20px;
+    background-color: rgb(155, 155, 155);
+    color:rgb(0, 0, 0);
+    font-size:14px;
+    border-radius: 50px;
+}
+p{
+    font-family: Ubuntu;
+    text-align: center;
+}
+
+footer{
+    font-size: 30px;
+    color: white;
+    background-color: black ;
+    height: 220px;
+}
+
+.Redes{
+    color: white;
+    font-family: Ubuntu;
+    text-align: left;
+    font-size: 15px;
+}
+
+.PiePagina{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
